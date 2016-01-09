@@ -2,7 +2,7 @@
 
 ***
 
-#### Historical Böögg burning times
+#### Böögg burning times - [boeoegg_burn_duration.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/)
 
 + Böögg burn duration data from [Sechselaeuten.ch](http://www.sechselaeuten.ch/)
 
@@ -10,7 +10,7 @@
 
 ***
 
-#### Historical Zürich weather
+#### Zürich weather - [zuri_historical_weather.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/zuri_historical_weather.csv)
 
 + Historical weather data for Zürich from [MeteoSchweiz](http://www.meteoswiss.admin.ch)
 - To update historical weather file, run the Python 2.7 code [get_zuri_weather.py](https://github.com/philshem/Sechselaeuten/blob/master/get_zuri_weather.py), which downloads and parses [this text file](http://www.meteoswiss.admin.ch/product/output/climate-data/homogenous-monthly-data-processing/data/homog_mo_SMA.txt) and prints a CSV file.
