@@ -1,5 +1,9 @@
 ###OpenData for Zürich's Sechseläuten
 
+Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten) | [fr](https://fr.wikipedia.org/wiki/Sechsel%C3%A4uten) 
+
+[Zürich Tourism](https://www.zuerich.com/en/visit/sechselaeuten)
+
 ***
 
 #### Böögg burning times - [boeoegg_burn_duration.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/)
