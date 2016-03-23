@@ -4,7 +4,7 @@
 
 import requests
 
-delim ='\t'
+delim =','
 
 # url for historical zurich weather data
 url = 'http://www.meteoswiss.admin.ch/product/output/climate-data/homogenous-monthly-data-processing/data/homog_mo_SMA.txt'
