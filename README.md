@@ -6,7 +6,7 @@ Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://
 
 ***
 
-#### Böögg burning times - [boeoegg_burn_duration.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/)
+#### Böögg burning times - [boeoegg_burn_duration.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/boeoegg_burn_duration.csv)
 
 + Böögg burn duration data from [Sechselaeuten.ch](http://www.sechselaeuten.ch/)
 
