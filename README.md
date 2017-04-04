@@ -10,7 +10,7 @@ Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://
 
 + Böögg burn duration data from [Sechselaeuten.ch](http://www.sechselaeuten.ch/) 
 
-- To add a new duration (in seconds) to the burn file, visit the [Statistik page](http://www.sechselaeuten.ch/sechselaeuten/statistik.asp) and find the newest year. Also available from [NZZ]([NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809)).
+- To add a new duration (in seconds) to the burn file, visit the [Statistik page](http://www.sechselaeuten.ch/sechselaeuten/statistik.asp) and find the newest year. Also available from [NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809).
 
 ***
 
