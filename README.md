@@ -1,4 +1,4 @@
-###OpenData for Zürich's Sechseläuten
+### OpenData for Zürich's Sechseläuten
 
 Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten) | [fr](https://fr.wikipedia.org/wiki/Sechsel%C3%A4uten) 
 
@@ -10,7 +10,7 @@ Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://
 
 + Böögg burn duration data from [Sechselaeuten.ch](http://www.sechselaeuten.ch/) 
 
-- To add a new duration (in seconds) to the burn file, visit the [Statistik page](http://www.sechselaeuten.ch/sechselaeuten/statistik.asp) and find the newest year. Also available from [NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809).
+- Burning duration available from [NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809) or, for recent years, from [Wikipedia (DE)](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten)
 
 ***
 
