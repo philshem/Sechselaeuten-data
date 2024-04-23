@@ -10,11 +10,4 @@ Wikipedia: [en](https://en.wikipedia.org/wiki/Sechsel%C3%A4uten) | [de](https://
 
 + Böögg burn duration data from [Sechselaeuten.ch](http://www.sechselaeuten.ch/) 
 
-- Burning duration available from [NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809) or, for recent years, from [Wikipedia (DE)](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten)
-
-***
-
-#### Zürich weather - [zuri_historical_weather.csv](https://github.com/philshem/Sechselaeuten-data/blob/master/zuri_historical_weather.csv)
-
-+ Historical weather data for Zürich from [MeteoSchweiz](http://www.meteoswiss.admin.ch)
-- To update historical weather file, run the Python 2.7 code [get_zuri_weather.py](https://github.com/philshem/Sechselaeuten/blob/master/get_zuri_weather.py), which downloads and parses [this text file](http://www.meteoswiss.admin.ch/product/output/climate-data/homogenous-monthly-data-processing/data/homog_mo_SMA.txt) and prints a CSV file.
+- Burning duration available from [NZZ](https://www.nzz.ch/zuerich/sechselaeuten-animierte-grafik-bringen-sie-boeoegg-zur-explosion-ld.12809) or, for recent years, from [Wikipedia (DE)](https://de.wikipedia.org/wiki/Sechseläuten#Zeitdauer,_bis_der_Böögg_den_Kopf_verlor)
